@@ -1,3 +1,6 @@
 body {
   -webkit-print-color-adjust: exact !important;
   print-color-adjust: exact !important; }
+
+h1 {
+  margin-top: 0; }
