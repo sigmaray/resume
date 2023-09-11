@@ -17,6 +17,9 @@ td {
 td:first-child {
   text-align: center; }
 
+td:nth-child(2) {
+  padding-left: 0.6rem; }
+
 .skill {
   border: 1px gray solid;
   margin-right: 0.5rem;
